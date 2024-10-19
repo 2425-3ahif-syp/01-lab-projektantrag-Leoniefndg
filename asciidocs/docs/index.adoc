@@ -1,4 +1,27 @@
-= Index page
-ifndef::imagesdir[:imagesdir: images]
+= Beschreibung
+Auor name <Findenig Leonie>
 
-image::img.png[]
+Das Projekt "Einkaufshelfer" zielt darauf ab, eine mobile oder Web-App zu entwickeln, die unseren Kunden Transparenz über die Herkunft und Nachhaltigkeit unserer Produkte bietet. Mithilfe eines Barcode-Scanners sollen die Kunden in der Lage sein, Produkte zu scannen und sofort Informationen über deren Nachhaltigkeit und Herkunft zu erhalten. So können sie bewusste Entscheidungen beim Einkaufen treffen.
+
+== Lösung
+
+Dieses Projekt soll den Einkauf unserer Kunden erleichtern und ihnen Zeit sparen. Statt lange nach nachhaltigen Produkten suchen zu müssen, wird unsere App den Nutzern eine Bewertung der Nachhaltigkeit der gescannten Produkte anzeigen. Auf diese Weise wird der Einkauf transparenter und kundenfreundlicher gestaltet.
+
+== Risiken
+
+Es besteht das Risiko, dass unsere technischen Ressourcen nicht ausreichen, um eine App mit solch einem umfassenden Funktionsumfang zu entwickeln. Zudem könnte es für ältere Kunden schwierig sein, die App zu bedienen, was dazu führen könnte, dass sie diese als unpraktisch oder unnötig empfinden.
+
+== Konsequenzen bei Nichtdurchführung
+
+Ohne dieses Projekt könnten unsere Kunden frustriert sein, weil sie viel Zeit damit verbringen müssen, nach nachhaltigen Produkten zu suchen. Außerdem könnten Zweifel an unserer Transparenz aufkommen, da die Kunden möglicherweise nicht nachvollziehen können, wie nachhaltig unsere Produkte tatsächlich sind.
+
+Diese Version ist inhaltlich klarer und strukturiert die Informationen präziser. Sie hebt die Vorteile des Projekts und die Risiken deutlich hervor, während sie gleichzeitig aufzeigt, warum die Nichtdurchführung problematisch wäre.
+
+
+
+
+
+
+
+
+
